@@ -1,4 +1,7 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 Latihan CRUD Aplikasi Buku Tamu
+
+Nama Database : db_crud_ci4
+Tabel : tb_tamu
 
 ## What is CodeIgniter?
 
